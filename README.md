@@ -387,5 +387,7 @@ MDN Web Docs. (2024). *HTML Forms Guide*. https://developer.mozilla.org/en-US/do
 
 ## LinkedIn Portfolio Activity
 
+https://www.linkedin.com/feed/update/urn:li:activity:7498668443328606208/
+
 > *Built with Laravel 12, MySQL 8.0, Tailwind CSS v4, and Vite.*
 > *ITST 302 – Client-Server Technologies | Week 4 Laboratory Activity*
