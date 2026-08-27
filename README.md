@@ -8,17 +8,17 @@ A full-featured **Student Registration System** built with Laravel 12, MySQL, an
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Objectives](#objectives)
-3. [Laravel Request Lifecycle](#laravel-request-lifecycle)
-4. [Validation Rules](#validation-rules)
-5. [Database Design](#database-design)
-6. [Registration Flowchart](#registration-flowchart)
-7. [Screenshots](#screenshots)
-8. [Problems Encountered](#problems-encountered)
-9. [Solutions](#solutions)
-10. [Reflection](#reflection)
-11. [References](#references)
+1. [Introduction](#1-introduction)
+2. [Objectives](#2-objectives)
+3. [Laravel Request Lifecycle](#3-laravel-request-lifecycle)
+4. [Validation Rules](#4-validation-rules)
+5. [Database Design](#5-database-design)
+6. [Registration Flowchart](#6-registration-flowchart)
+7. [Screenshots](#7-screenshots)
+8. [Problems Encountered](#8-problems-encountered)
+9. [Solutions](#9-solutions)
+10. [Reflection](#10-reflection)
+11. [References](#11-references)
 
 ---
 
