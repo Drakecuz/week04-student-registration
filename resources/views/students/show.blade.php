@@ -7,7 +7,7 @@
 <div class="bg-white rounded-xl shadow-lg overflow-hidden">
     {{-- Header --}}
     <div class="bg-gradient-to-r from-blue-600 to-blue-800 px-8 py-6 text-white">
-        <h1 class="text-2xl font-bold">🎓 Student Profile</h1>
+        <h1 class="text-2xl font-bold">Student Profile</h1>
         <p class="text-blue-100 mt-1">Registration successful! Here are the student's details.</p>
     </div>
 
@@ -75,7 +75,7 @@
         <div class="mt-8 pt-6 border-t flex flex-wrap gap-4">
             <a href="{{ route('students.create') }}"
                class="bg-blue-600 hover:bg-blue-700 text-white font-medium px-6 py-3 rounded-lg transition duration-200">
-                ➕ Register Another Student
+                Register Another Student
             </a>
         </div>
     </div>

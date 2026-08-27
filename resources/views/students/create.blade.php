@@ -174,7 +174,7 @@
         <div class="flex items-center gap-4 pt-4 border-t">
             <button type="submit"
                     class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-8 py-3 rounded-lg transition duration-200">
-                ✅ Register Student
+                 Register Student
             </button>
             <button type="reset"
                     class="bg-gray-200 hover:bg-gray-300 text-gray-700 font-medium px-6 py-3 rounded-lg transition duration-200">
