@@ -1,4 +1,4 @@
-# 🎓 Student Registration System
+# Student Registration System
 
 ## ITST 302 – Client-Server Technologies | Week 4 Laboratory Activity
 
@@ -6,7 +6,7 @@ A full-featured **Student Registration System** built with Laravel 12, MySQL, an
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Objectives](#objectives)
@@ -46,14 +46,14 @@ Registration systems are the **foundation of almost every enterprise web applica
 
 Upon completion of this activity, the following learning outcomes were achieved:
 
-1. ✅ Develop HTML forms using Blade templates
-2. ✅ Process client requests using Laravel controllers
-3. ✅ Implement server-side validation using Laravel Validation Rules
-4. ✅ Display flash messages for successful and failed operations
-5. ✅ Upload and securely store files using Laravel Storage
-6. ✅ Design and implement a relational database table using Laravel Migrations
-7. ✅ Document software development processes using Markdown
-8. ✅ Apply Git version control and portfolio-building practices
+1. Develop HTML forms using Blade templates
+2. Process client requests using Laravel controllers
+3. Implement server-side validation using Laravel Validation Rules
+4. Display flash messages for successful and failed operations
+5. Upload and securely store files using Laravel Storage
+6. Design and implement a relational database table using Laravel Migrations
+7. Document software development processes using Markdown
+8. Apply Git version control and portfolio-building practices
 
 ---
 
@@ -385,78 +385,7 @@ MDN Web Docs. (2024). *HTML Forms Guide*. https://developer.mozilla.org/en-US/do
 
 ---
 
-## 📁 Project Structure
-
-```
-week04-student-registration/
-├── app/
-│   ├── Http/
-│   │   ├── Controllers/
-│   │   │   └── StudentController.php
-│   │   └── Controller.php
-│   └── Models/
-│       └── Student.php
-├── database/
-│   └── migrations/
-│       └── 2026_08_27_063237_create_students_table.php
-├── resources/
-│   └── views/
-│       ├── layouts/
-│       │   └── app.blade.php
-│       └── students/
-│           ├── create.blade.php
-│           └── show.blade.php
-├── routes/
-│   └── web.php
-├── screenshots/
-├── documentation/
-├── storage/
-│   └── app/
-│       └── public/
-│           └── profile_pictures/
-├── README.md
-├── composer.json
-├── package.json
-├── vite.config.js
-└── tailwind.config.js
-```
-
----
-
-## 🚀 How to Run
-
-```bash
-# 1. Install dependencies
-composer install
-npm install
-
-# 2. Configure .env (MySQL database)
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=student_registration
-DB_USERNAME=root
-DB_PASSWORD=1234
-
-# 3. Create database
-mysql -u root -p1234 -e "CREATE DATABASE student_registration"
-
-# 4. Run migrations
-php artisan migrate
-
-# 5. Create storage link
-php artisan storage:link
-
-# 6. Build frontend
-npm run build
-
-# 7. Start the server
-php artisan serve
-
-# 8. Visit http://localhost:8000/register
-```
-
----
+## LinkedIn Portfolio Activity
 
 > *Built with Laravel 12, MySQL 8.0, Tailwind CSS v4, and Vite.*
 > *ITST 302 – Client-Server Technologies | Week 4 Laboratory Activity*
