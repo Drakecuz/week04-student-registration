@@ -15,7 +15,7 @@ A full-featured **Student Registration System** built with Laravel 12, MySQL, an
 5. [Database Design](#database-design)
 6. [Registration Flowchart](#registration-flowchart)
 7. [Screenshots](#screenshots)
-8. [Problems Encountered](##problems-encountered)
+8. [Problems Encountered](#problems-encountered)
 9. [Solutions](#solutions)
 10. [Reflection](#reflection)
 11. [References](#references)
