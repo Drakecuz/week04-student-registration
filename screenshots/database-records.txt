@@ -1,0 +1,16 @@
+*************************** 1. row ***************************
+             id: 1
+     student_id: 2024-0001
+     first_name: Juan
+    middle_name: Dela
+      last_name: Cruz
+          email: juancruz@example.com
+  mobile_number: 09171234567
+  date_of_birth: 2000-01-15
+         gender: Male
+        program: BSIT
+     year_level: 2nd Year
+        address: 123 Rizal St, Manila
+profile_picture: profile_pictures/X3tXKx8jLfoSCLT1VLmsR8l1Mbepv2QbDBgPAZ6d.jpg
+     created_at: 2026-08-27 07:00:58
+     updated_at: 2026-08-27 07:00:58
